@@ -1,2 +1,1 @@
-# Tindog
-Course exercise.
+TinDog Starting Files
